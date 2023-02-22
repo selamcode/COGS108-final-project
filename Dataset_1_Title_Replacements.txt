@@ -1,0 +1,16 @@
+knowinf_3 = wearing_mask
+knowinf_7 = distancing_from_coughers
+behav_2 = behav_purchased_mask
+behav_3 = behav_working_from_home
+behav_8 = behav_avoided_public_transportation
+behav_9 = behav_avoided_crowded_places
+behav7_2 = behav_past_7_days_social_event_cancellations
+behav7_4 = behav_past_7_days_avoided_individuals_at_risk
+perc_risk = scale_1-10_sickness_risk
+belief_1 = belief_abide_quarantine_order
+belief_2 = belief_abide_quarantine_asking
+belief_7 = belief_covid_deadlier_than_flu
+belief_9 = belief_covid_media_exasperation
+belief_10 = belief_covid_gov_downplay
+vote_3 = skip_inperson_voting
+immpact_2 = watchful

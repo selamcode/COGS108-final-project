@@ -1,0 +1,293 @@
+polit	state	wear_mask	0
+DEMOCRAT	Alabama	0.0	18
+DEMOCRAT	Alabama	1.0	1
+DEMOCRAT	Alaska	0.0	2
+DEMOCRAT	Arizona	0.0	24
+DEMOCRAT	Arizona	1.0	6
+DEMOCRAT	Arkansas	0.0	4
+DEMOCRAT	Arkansas	1.0	2
+DEMOCRAT	California	0.0	69
+DEMOCRAT	California	1.0	22
+DEMOCRAT	Colorado	0.0	32
+DEMOCRAT	Colorado	1.0	2
+DEMOCRAT	Connecticut	0.0	33
+DEMOCRAT	Connecticut	1.0	5
+DEMOCRAT	Delaware	0.0	10
+DEMOCRAT	District of Columbia	0.0	8
+DEMOCRAT	District of Columbia	1.0	1
+DEMOCRAT	Florida	0.0	60
+DEMOCRAT	Florida	1.0	12
+DEMOCRAT	Georgia	0.0	14
+DEMOCRAT	Georgia	1.0	2
+DEMOCRAT	Hawaii	0.0	3
+DEMOCRAT	Hawaii	1.0	5
+DEMOCRAT	Idaho	0.0	10
+DEMOCRAT	Idaho	1.0	1
+DEMOCRAT	Illinois	0.0	64
+DEMOCRAT	Illinois	1.0	10
+DEMOCRAT	Indiana	0.0	38
+DEMOCRAT	Indiana	1.0	5
+DEMOCRAT	Iowa	0.0	19
+DEMOCRAT	Iowa	1.0	4
+DEMOCRAT	Kansas	0.0	18
+DEMOCRAT	Kansas	1.0	1
+DEMOCRAT	Kentucky	0.0	32
+DEMOCRAT	Kentucky	1.0	11
+DEMOCRAT	Louisiana	0.0	11
+DEMOCRAT	Louisiana	1.0	1
+DEMOCRAT	Maine	0.0	16
+DEMOCRAT	Maine	1.0	1
+DEMOCRAT	Maryland	0.0	19
+DEMOCRAT	Maryland	1.0	5
+DEMOCRAT	Massachusetts	0.0	24
+DEMOCRAT	Massachusetts	1.0	11
+DEMOCRAT	Michigan	0.0	81
+DEMOCRAT	Michigan	1.0	18
+DEMOCRAT	Minnesota	0.0	46
+DEMOCRAT	Minnesota	1.0	6
+DEMOCRAT	Mississippi	0.0	9
+DEMOCRAT	Missouri	0.0	40
+DEMOCRAT	Missouri	1.0	10
+DEMOCRAT	Montana	0.0	9
+DEMOCRAT	Montana	1.0	2
+DEMOCRAT	Nebraska	0.0	13
+DEMOCRAT	Nebraska	1.0	7
+DEMOCRAT	Nevada	0.0	5
+DEMOCRAT	Nevada	1.0	5
+DEMOCRAT	New Hampshire	0.0	7
+DEMOCRAT	New Hampshire	1.0	1
+DEMOCRAT	New Jersey	0.0	51
+DEMOCRAT	New Jersey	1.0	13
+DEMOCRAT	New Mexico	0.0	13
+DEMOCRAT	New York	0.0	91
+DEMOCRAT	New York	1.0	45
+DEMOCRAT	North Carolina	0.0	46
+DEMOCRAT	North Carolina	1.0	6
+DEMOCRAT	North Dakota	0.0	3
+DEMOCRAT	Ohio	0.0	64
+DEMOCRAT	Ohio	1.0	15
+DEMOCRAT	Oklahoma	0.0	18
+DEMOCRAT	Oklahoma	1.0	1
+DEMOCRAT	Oregon	0.0	24
+DEMOCRAT	Oregon	1.0	8
+DEMOCRAT	Pennsylvania	0.0	89
+DEMOCRAT	Pennsylvania	1.0	25
+DEMOCRAT	Rhode Island	0.0	9
+DEMOCRAT	Rhode Island	1.0	1
+DEMOCRAT	South Carolina	0.0	11
+DEMOCRAT	South Carolina	1.0	2
+DEMOCRAT	South Dakota	0.0	7
+DEMOCRAT	Tennessee	0.0	20
+DEMOCRAT	Tennessee	1.0	9
+DEMOCRAT	Texas	0.0	32
+DEMOCRAT	Texas	1.0	13
+DEMOCRAT	Utah	0.0	14
+DEMOCRAT	Utah	1.0	2
+DEMOCRAT	Vermont	0.0	6
+DEMOCRAT	Vermont	1.0	2
+DEMOCRAT	Virginia	0.0	42
+DEMOCRAT	Virginia	1.0	5
+DEMOCRAT	Washington	0.0	30
+DEMOCRAT	Washington	1.0	5
+DEMOCRAT	West Virginia	0.0	15
+DEMOCRAT	West Virginia	1.0	4
+DEMOCRAT	Wisconsin	0.0	40
+DEMOCRAT	Wisconsin	1.0	2
+DEMOCRAT	Wyoming	0.0	5
+DEMOCRAT	Wyoming	1.0	1
+OTHER	Alabama	0.0	19
+OTHER	Alabama	1.0	3
+OTHER	Alaska	0.0	14
+OTHER	Alaska	1.0	3
+OTHER	Arizona	0.0	24
+OTHER	Arizona	1.0	3
+OTHER	Arkansas	0.0	16
+OTHER	Arkansas	1.0	2
+OTHER	California	0.0	56
+OTHER	California	1.0	10
+OTHER	Colorado	0.0	23
+OTHER	Colorado	1.0	5
+OTHER	Connecticut	0.0	39
+OTHER	Connecticut	1.0	8
+OTHER	Delaware	0.0	6
+OTHER	Delaware	1.0	2
+OTHER	District of Columbia	0.0	1
+OTHER	Florida	0.0	62
+OTHER	Florida	1.0	11
+OTHER	Georgia	0.0	30
+OTHER	Georgia	1.0	6
+OTHER	Hawaii	0.0	4
+OTHER	Hawaii	1.0	1
+OTHER	Idaho	0.0	8
+OTHER	Idaho	1.0	4
+OTHER	Illinois	0.0	63
+OTHER	Illinois	1.0	12
+OTHER	Indiana	0.0	55
+OTHER	Indiana	1.0	7
+OTHER	Iowa	0.0	20
+OTHER	Iowa	1.0	3
+OTHER	Kansas	0.0	13
+OTHER	Kansas	1.0	1
+OTHER	Kentucky	0.0	26
+OTHER	Kentucky	1.0	7
+OTHER	Louisiana	0.0	20
+OTHER	Louisiana	1.0	3
+OTHER	Maine	0.0	23
+OTHER	Maine	1.0	3
+OTHER	Maryland	0.0	34
+OTHER	Maryland	1.0	5
+OTHER	Massachusetts	0.0	62
+OTHER	Massachusetts	1.0	3
+OTHER	Michigan	0.0	94
+OTHER	Michigan	1.0	22
+OTHER	Minnesota	0.0	63
+OTHER	Minnesota	1.0	6
+OTHER	Mississippi	0.0	19
+OTHER	Mississippi	1.0	2
+OTHER	Missouri	0.0	44
+OTHER	Missouri	1.0	8
+OTHER	Montana	0.0	13
+OTHER	Montana	1.0	2
+OTHER	Nebraska	0.0	6
+OTHER	Nebraska	1.0	1
+OTHER	Nevada	0.0	4
+OTHER	New Hampshire	0.0	23
+OTHER	New Hampshire	1.0	10
+OTHER	New Jersey	0.0	53
+OTHER	New Jersey	1.0	22
+OTHER	New Mexico	0.0	13
+OTHER	New Mexico	1.0	5
+OTHER	New York	0.0	141
+OTHER	New York	1.0	39
+OTHER	North Carolina	0.0	40
+OTHER	North Carolina	1.0	6
+OTHER	North Dakota	0.0	3
+OTHER	North Dakota	1.0	1
+OTHER	Ohio	0.0	87
+OTHER	Ohio	1.0	16
+OTHER	Oklahoma	0.0	15
+OTHER	Oklahoma	1.0	8
+OTHER	Oregon	0.0	19
+OTHER	Oregon	1.0	4
+OTHER	Pennsylvania	0.0	104
+OTHER	Pennsylvania	1.0	22
+OTHER	Puerto Rico	1.0	1
+OTHER	Rhode Island	0.0	9
+OTHER	Rhode Island	1.0	1
+OTHER	South Carolina	0.0	11
+OTHER	South Carolina	1.0	6
+OTHER	South Dakota	0.0	11
+OTHER	South Dakota	1.0	2
+OTHER	Tennessee	0.0	41
+OTHER	Tennessee	1.0	8
+OTHER	Texas	0.0	60
+OTHER	Texas	1.0	18
+OTHER	Utah	0.0	26
+OTHER	Utah	1.0	3
+OTHER	Vermont	0.0	16
+OTHER	Vermont	1.0	2
+OTHER	Virginia	0.0	38
+OTHER	Washington	0.0	25
+OTHER	Washington	1.0	10
+OTHER	West Virginia	0.0	16
+OTHER	West Virginia	1.0	8
+OTHER	Wisconsin	0.0	58
+OTHER	Wisconsin	1.0	16
+OTHER	Wyoming	0.0	8
+OTHER	Wyoming	1.0	3
+REPUBLICAN	Alabama	0.0	27
+REPUBLICAN	Alabama	1.0	13
+REPUBLICAN	Alaska	0.0	1
+REPUBLICAN	Alaska	1.0	1
+REPUBLICAN	Arizona	0.0	14
+REPUBLICAN	Arizona	1.0	6
+REPUBLICAN	Arkansas	0.0	13
+REPUBLICAN	Arkansas	1.0	1
+REPUBLICAN	California	0.0	31
+REPUBLICAN	California	1.0	12
+REPUBLICAN	Colorado	0.0	9
+REPUBLICAN	Colorado	1.0	1
+REPUBLICAN	Connecticut	0.0	12
+REPUBLICAN	Connecticut	1.0	1
+REPUBLICAN	Delaware	0.0	3
+REPUBLICAN	Delaware	1.0	1
+REPUBLICAN	Florida	0.0	45
+REPUBLICAN	Florida	1.0	9
+REPUBLICAN	Georgia	0.0	36
+REPUBLICAN	Georgia	1.0	10
+REPUBLICAN	Hawaii	0.0	1
+REPUBLICAN	Hawaii	1.0	1
+REPUBLICAN	Idaho	0.0	9
+REPUBLICAN	Idaho	1.0	3
+REPUBLICAN	Illinois	0.0	41
+REPUBLICAN	Illinois	1.0	8
+REPUBLICAN	Indiana	0.0	26
+REPUBLICAN	Indiana	1.0	9
+REPUBLICAN	Iowa	0.0	14
+REPUBLICAN	Iowa	1.0	4
+REPUBLICAN	Kansas	0.0	11
+REPUBLICAN	Kentucky	0.0	21
+REPUBLICAN	Kentucky	1.0	5
+REPUBLICAN	Louisiana	0.0	19
+REPUBLICAN	Louisiana	1.0	2
+REPUBLICAN	Maine	0.0	5
+REPUBLICAN	Maine	1.0	2
+REPUBLICAN	Maryland	0.0	23
+REPUBLICAN	Maryland	1.0	7
+REPUBLICAN	Massachusetts	0.0	6
+REPUBLICAN	Massachusetts	1.0	3
+REPUBLICAN	Michigan	0.0	51
+REPUBLICAN	Michigan	1.0	12
+REPUBLICAN	Minnesota	0.0	15
+REPUBLICAN	Minnesota	1.0	1
+REPUBLICAN	Mississippi	0.0	15
+REPUBLICAN	Mississippi	1.0	6
+REPUBLICAN	Missouri	0.0	29
+REPUBLICAN	Missouri	1.0	9
+REPUBLICAN	Montana	0.0	8
+REPUBLICAN	Montana	1.0	2
+REPUBLICAN	Nebraska	0.0	10
+REPUBLICAN	Nevada	0.0	6
+REPUBLICAN	Nevada	1.0	3
+REPUBLICAN	New Hampshire	0.0	11
+REPUBLICAN	New Hampshire	1.0	1
+REPUBLICAN	New Jersey	0.0	26
+REPUBLICAN	New Jersey	1.0	11
+REPUBLICAN	New Mexico	0.0	2
+REPUBLICAN	New York	0.0	68
+REPUBLICAN	New York	1.0	26
+REPUBLICAN	North Carolina	0.0	24
+REPUBLICAN	North Carolina	1.0	4
+REPUBLICAN	North Dakota	0.0	8
+REPUBLICAN	North Dakota	1.0	1
+REPUBLICAN	Ohio	0.0	57
+REPUBLICAN	Ohio	1.0	9
+REPUBLICAN	Oklahoma	0.0	11
+REPUBLICAN	Oklahoma	1.0	6
+REPUBLICAN	Oregon	0.0	13
+REPUBLICAN	Oregon	1.0	3
+REPUBLICAN	Pennsylvania	0.0	76
+REPUBLICAN	Pennsylvania	1.0	8
+REPUBLICAN	Rhode Island	0.0	4
+REPUBLICAN	South Carolina	0.0	15
+REPUBLICAN	South Carolina	1.0	1
+REPUBLICAN	South Dakota	0.0	10
+REPUBLICAN	South Dakota	1.0	1
+REPUBLICAN	Tennessee	0.0	34
+REPUBLICAN	Tennessee	1.0	5
+REPUBLICAN	Texas	0.0	64
+REPUBLICAN	Texas	1.0	14
+REPUBLICAN	Utah	0.0	12
+REPUBLICAN	Utah	1.0	2
+REPUBLICAN	Vermont	0.0	7
+REPUBLICAN	Vermont	1.0	1
+REPUBLICAN	Virginia	0.0	20
+REPUBLICAN	Virginia	1.0	8
+REPUBLICAN	Washington	0.0	12
+REPUBLICAN	Washington	1.0	4
+REPUBLICAN	West Virginia	0.0	15
+REPUBLICAN	West Virginia	1.0	5
+REPUBLICAN	Wisconsin	0.0	33
+REPUBLICAN	Wisconsin	1.0	8
+REPUBLICAN	Wyoming	0.0	8
+REPUBLICAN	Wyoming	1.0	1
